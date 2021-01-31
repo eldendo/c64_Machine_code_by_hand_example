@@ -1,7 +1,7 @@
 # c64_Machine_code_by_hand_example
 
-a demonstration of hand coded machine code on c64
-(c)2021 by ir. Marc Dendooven (Eldendo)  
+### a demonstration of hand coded machine code on c64  
+### (c)2021 by ir. Marc Dendooven (Eldendo)  
 
 The program will reverse the screen of a c64.  
 
